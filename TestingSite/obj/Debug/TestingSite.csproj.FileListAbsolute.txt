@@ -27,3 +27,4 @@ D:\Projects\CSharp\GitHub\Test1\TestingSite\TestingSite\TestingSite\bin\DotNetOp
 D:\Projects\CSharp\GitHub\Test1\TestingSite\TestingSite\TestingSite\bin\DotNetOpenAuth.AspNet.xml
 D:\Projects\CSharp\GitHub\Test1\TestingSite\TestingSite\TestingSite\obj\Debug\TestingSite.dll
 D:\Projects\CSharp\GitHub\Test1\TestingSite\TestingSite\TestingSite\obj\Debug\TestingSite.pdb
+D:\Projects\CSharp\GitHub\Test1\TestingSite\TestingSite\TestingSite\obj\Debug\TestingSite.csprojResolveAssemblyReference.cache
